@@ -1,4 +1,10 @@
 # 42Bangkok-Rush-Project
+90642111 FUN WITH CODING Project Assignment
+
+## Feature
+- Moving Background
+- Interative Button
+- Navigation Bar
 
 ## Home Page
 ![image](https://github.com/user-attachments/assets/d3138150-6345-450f-bdac-2d00cc520d87)
